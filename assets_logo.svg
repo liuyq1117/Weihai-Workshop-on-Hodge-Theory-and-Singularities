@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="Conference logo">
+  <rect rx="18" width="120" height="120" fill="#2563eb"/>
+  <g transform="translate(22,22)" fill="#fff" stroke="none">
+    <!-- stylized H and S for Hodge & Singularities -->
+    <path d="M6 6v32h6v-12h6v12h6V6h-6v10h-6V6z"/>
+    <path d="M34 6c-4 0-7 3-7 7s3 7 7 7c3 0 5-2 6-4 1-2 2-5 5-6-2 6-5 12-13 14-7 2-13-3-13-10S25 0 34 0c4 0 8 1 11 3-1 1-4 2-11 3z" opacity="0.95"/>
+  </g>
+</svg>
